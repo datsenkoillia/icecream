@@ -2,17 +2,17 @@
   "name": "ice-cream-team",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://RomarioNik.github.io/ice-cream-team",
+  "homepage": "https://datsenkoillia.github.io/icecream",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /ice-cream-team/"
+    "build": "parcel build src/*.html --public-url /icecream/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RomarioNik/ice-cream-team.git"
+    "url": "git+https://github.com/datsenkoillia/icecream.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Illia Datsenko <datsenko.i@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
