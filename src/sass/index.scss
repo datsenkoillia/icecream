@@ -1,0 +1,41 @@
+@import './common/common';
+@import './common/animate-min';
+
+@import './base/variables';
+@import './utils/mixins';
+@import './base/reset';
+@import './base/base';
+
+// header
+@import './layout/header';
+
+// sections
+@import './components/section-hero';
+@import './components/section-about2';
+@import './components/section-advantages';
+@import './components/section-contacts';
+@import './components/section-gallery';
+@import './components/section-products';
+@import './components/section-reviews';
+
+// components
+@import './components/menu';
+@import './components/logo';
+
+// footer
+@import './layout/footer';
+
+// modals
+@import './components/modals/modal';
+@import './components/modals/buy-modal';
+@import './components/modals/ingredients-modal';
+@import './components/modals/read-modal';
+@import './components/modals/location-modal';
+@import './components/modals/franchise-modal';
+// modals overlay
+@import './components/modals/overlay';
+
+// visually-hidden
+@import './components/visually-hidden';
+
+@import './common/animation';
