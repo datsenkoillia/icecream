@@ -6,7 +6,7 @@
 // window.addEventListener('scroll', function () {
 //   scrollCounter.innerHTML = window.pageYOffset;
 // });
-
+//
 // AOS.init({
 //   startEvent: 'DOMContentLoaded',
 //   offset: 200,
